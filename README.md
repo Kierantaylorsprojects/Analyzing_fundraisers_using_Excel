@@ -1,5 +1,11 @@
 # Analyzing_fundraisers_using_Excel
 
+## Summary
+
+For this analysis, I used many different Excel functions to clean and breakdown data oriented around fundraising campaigns.
+
+More specifically, I used conditional formatting including VLOOKUP and COUNTIF to form new columns that categorized specific data. I then created pivot tables and produced line and bar charts to visualize our findings. 
+
 ## Findings 
 
 1. The months of June and July may have a positive relationship to successful campaigns while the month of August seems to have more failed campaigns.
